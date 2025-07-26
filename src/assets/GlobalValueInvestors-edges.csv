@@ -1,0 +1,142 @@
+Source,Target,Relationship,Strength
+Benjamin Graham,Warren Buffett,Mentor of,3
+Benjamin Graham,Irving Kahn,Mentor of,3
+Benjamin Graham,Walter Schloss,Mentor of,3
+Benjamin Graham,William J. Ruane,Mentor of,3
+Benjamin Graham,Christopher H. Browne,Influenced,2
+Benjamin Graham,Bruce Greenwald,Influenced,2
+Benjamin Graham,Jean-Marie Eveillard,Influenced,2
+Benjamin Graham,Seth Klarman,Influenced,2
+Benjamin Graham,Joel Greenblatt,Influenced,2
+David Dodd,Benjamin Graham,Partner of,3
+David Dodd,Walter Schloss,Academic Colleague at Columbia Business School,2
+David Dodd,Bruce Greenwald,Academic Colleague at Columbia Business School,2
+Bruce Greenwald,Tano Santos,Academic Colleague at Columbia Business School,2
+Bruce Greenwald,Joel Greenblatt,Academic Colleague at Columbia Business School,2
+Bruce Greenwald,Michael Mauboussin,Academic Colleague at Columbia Business School,2
+Tano Santos,Joel Greenblatt,Academic Colleague at Columbia Business School,2
+Tano Santos,Michael Mauboussin,Academic Colleague at Columbia Business School,2
+Joel Greenblatt,Michael Mauboussin,Academic Colleague at Columbia Business School,2
+Warren Buffett,Charlie Munger,Partner of,3
+Warren Buffett,Tom Knapp,Colleague at Graham-Newman,1
+Warren Buffett,Bill Ruane,Colleague at Graham-Dodd Disciples,1
+Warren Buffett,Howard Buffett,Colleague at Berkshire Hathaway,1
+Warren Buffett,Li Lu,Mentor of,2
+Warren Buffett,Mohnish Pabrai,Compared to,1
+Warren Buffett,Guy Spier,Compared to,1
+Warren Buffett,Prem Watsa,Compared to,1
+Warren Buffett,Seth Klarman,Compared to,1
+Charlie Munger,Todd Combs,Colleague at Berkshire Hathaway,1
+Charlie Munger,Ted Weschler,Colleague at Berkshire Hathaway,1
+Todd Combs,Ted Weschler,Colleague at Berkshire Hathaway,1
+Irving Kahn,Thomas Graham Kahn,Partner of,3
+Irving Kahn,Alan Kahn,Colleague at Kahn Brothers,1
+Irving Kahn,Andrew Kahn,Colleague at Kahn Brothers,1
+Thomas Graham Kahn,Alan Kahn,Colleague at Kahn Brothers,1
+Thomas Graham Kahn,Andrew Kahn,Colleague at Kahn Brothers,1
+Alan Kahn,Andrew Kahn,Colleague at Kahn Brothers,1
+Walter Schloss,Edwin Schloss,Partner of,3
+Walter Schloss,Chris Browne,Compared to,1
+Walter Schloss,Seth Klarman,Compared to,1
+William J. Ruane,Richard T. Cunniff,Partner of,3
+William J. Ruane,Robert D. Goldfarb,Partner of,3
+Christopher H. Browne,John Spears,Colleague at Tweedy Browne,1
+Christopher H. Browne,Robert W. Wyckoff Jr.,Colleague at Tweedy Browne,1
+John Spears,Robert W. Wyckoff Jr.,Colleague at Tweedy Browne,1
+Jean-Marie Eveillard,Matthew McLennan,Successor to First Eagle Global Fund,3
+Jean-Marie Eveillard,Abhay Deshpande,Colleague at First Eagle,1
+Jean-Marie Eveillard,Michael L. Kelly,Colleague at First Eagle,1
+Jean-Marie Eveillard,Kimball Brooker,Colleague at First Eagle,1
+Matthew McLennan,Abhay Deshpande,Colleague at First Eagle,1
+Matthew McLennan,Michael L. Kelly,Colleague at First Eagle,1
+Matthew McLennan,Kimball Brooker,Colleague at First Eagle,1
+Abhay Deshpande,Michael L. Kelly,Colleague at First Eagle,1
+Abhay Deshpande,Kimball Brooker,Colleague at First Eagle,1
+Michael L. Kelly,Kimball Brooker,Colleague at First Eagle,1
+John W. Rogers Jr.,Mellody Hobson,Colleague at Ariel Investments,2
+John W. Rogers Jr.,Charles Bobrinskoy,Colleague at Ariel Investments,1
+John W. Rogers Jr.,John P. Miller,Colleague at Ariel Investments,1
+Mellody Hobson,Charles Bobrinskoy,Colleague at Ariel Investments,1
+Mellody Hobson,John P. Miller,Colleague at Ariel Investments,1
+Charles Bobrinskoy,John P. Miller,Colleague at Ariel Investments,1
+Seth Klarman,David Abrams,Colleague at Baupost Group,1
+Seth Klarman,William Poorvu,Academic Colleague at Harvard,2
+Howard Marks,Bruce Karsh,Partner of,3
+Howard Marks,Sheldon Stone,Colleague at Oaktree,1
+Howard Marks,Joel Tillinghast,Colleague at Modern Fund Managers,1
+Bruce Karsh,Sheldon Stone,Colleague at Oaktree,1
+Bruce Karsh,Joel Tillinghast,Colleague at Modern Fund Managers,1
+Joel Tillinghast,Will Danoff,Colleague at Fidelity,1
+Joel Tillinghast,Morgan Housel,Colleague at Modern Fund Managers,1
+Will Danoff,Morgan Housel,Colleague at Modern Fund Managers,1
+Michael Barakos,Ian Butler,Co-manager at JPM Europe Strategic Value Fund,2
+Michael Barakos,Jeffrey Taylor,Colleague at JPM Europe Strategic Value Fund,1
+Ian Butler,Jeffrey Taylor,Colleague at JPM Europe Strategic Value Fund,1
+Francisco García Paramés,Álvaro Guzmán de Lázaro,Partner of,3
+Francisco García Paramés,Fernando Bernad,Colleague at Azvalor,1
+Álvaro Guzmán de Lázaro,Fernando Bernad,Colleague at Azvalor,1
+Guy Spier,Mohnish Pabrai,Partner of,3
+Guy Spier,Li Lu,Compared to,1
+Mohnish Pabrai,Li Lu,Colleague at Global Value Investors,1
+Rakesh Jhunjhunwala,Rekha Jhunjhunwala,Successor to,3
+Rakesh Jhunjhunwala,Utpal Sheth,Partner of,3
+Rakesh Jhunjhunwala,Sanjiv Bajaj,Colleague at Rare Enterprises,1
+Rakesh Jhunjhunwala,Kamal Kabra,Colleague at Rare Enterprises,1
+Rekha Jhunjhunwala,Utpal Sheth,Colleague at Rare Enterprises,1
+Rekha Jhunjhunwala,Sanjiv Bajaj,Colleague at Rare Enterprises,1
+Rekha Jhunjhunwala,Kamal Kabra,Colleague at Rare Enterprises,1
+Utpal Sheth,Sanjiv Bajaj,Colleague at Rare Enterprises,1
+Utpal Sheth,Kamal Kabra,Colleague at Rare Enterprises,1
+Sanjiv Bajaj,Kamal Kabra,Colleague at Rare Enterprises,1
+Sanjay Bakshi,Mohnish Pabrai,Academic Colleague at ValueQuest,2
+Sanjay Bakshi,Prof. Bakul Dholakia,Colleague at ValueQuest,1
+Sanjay Bakshi,Prof. Aswath Damodaran,Academic Colleague at Finance Academia,1
+Prof. Bakul Dholakia,Prof. Aswath Damodaran,Academic Colleague at Finance Academia,1
+Li Lu,Charles Munger,Partner of,3
+Li Lu,Bill Gates,Colleague at Himalaya Capital,1
+Bill Gates,Melinda Gates,Partner of,3
+Melinda Gates,Warren Buffett,Colleague at Foundation Philanthropy,1
+Prem Watsa,Ajit Jain,Colleague at Fairfax Financial,1
+Ajit Jain,Thomas S. Gayner,Partner of,3
+Ajit Jain,Ted Weschler,Colleague at Berkshire Hathaway,1
+Thomas S. Gayner,Markel Corp,Colleague at Markel,1
+Peter Lynch,Joel Tillinghast,Mentor of,3
+Peter Lynch,Morgan Stanley,Colleague at Modern Fund Managers,1
+David Einhorn,Joel Greenblatt,Mentor of,2
+Joel Greenblatt,Whitney Tilson,Academic Colleague at Columbia Business School,2
+Whitney Tilson,Glenn Tongue,Partner of,3
+Whitney Tilson,John Heins,Co-author with,2
+Glenn Tongue,John Heins,Co-author with,2
+Christopher Davis,Kenneth E. Feinberg,Colleague at Davis Advisors,1
+Christopher Davis,Andrew Davis,Colleague at Davis Advisors,1
+Kenneth E. Feinberg,Andrew Davis,Colleague at Davis Advisors,1
+Mark Mobius,Carlos Hardenberg,Partner of,3
+Mark Mobius,Allan Conway,Colleague at Franklin Templeton,1
+Carlos Hardenberg,Allan Conway,Colleague at Franklin Templeton,1
+Allan Conway,Simon Coxeter,Colleague at Franklin Templeton,1
+Simon Coxeter,Mark Mobius,Colleague at Franklin Templeton,1
+Rich Pzena,Ben Silverman,Colleague at Pzena Investment Management,1
+Rich Pzena,John Goetz,Partner of,3
+Ben Silverman,John Goetz,Colleague at Pzena Investment Management,1
+John Goetz,Brian McMahon,Partner of,3
+Brian McMahon,Ben Inker,Colleague at GMO,1
+Ben Inker,Jeremy Grantham,Partner of,3
+Jeremy Grantham,James Montier,Colleague at GMO,1
+James Montier,Edward Chancellor,Colleague at GMO,1
+Edward Chancellor,Mikhail Samonov,Colleague at GMO,1
+Mikhail Samonov,Michael Mauboussin,Academic Colleague at Columbia Business School,2
+Michael Mauboussin,Howard Marks,Colleague at Oaktree,1
+Michael Mauboussin,Sanjay Bakshi,Compared to,1
+Abhay Deshpande,Jean-Marie Eveillard,Partner of,3
+Abhay Deshpande,Matthew McLennan,Colleague at First Eagle,1
+David Abrams,Seth Klarman,Colleague at Baupost Group,1
+Francisco García Paramés,Jean-Marie Eveillard,Colleague at First Eagle,1
+Francisco García Paramés,Michael Barakos,Colleague at European Value Funds,1
+Michael Barakos,Francisco García Paramés,Colleague at European Value Funds,1
+Tano Santos,Bruce Greenwald,Academic Colleague at Columbia Business School,2
+Joel Greenblatt,Michael Mauboussin,Academic Colleague at Columbia Business School,2
+Rakesh Jhunjhunwala,Benjamin Graham,Influenced,2
+Mohnish Pabrai,Benjamin Graham,Influenced,2
+Guy Spier,Benjamin Graham,Influenced,2
+Li Lu,Benjamin Graham,Influenced,2
+Francisco García Paramés,Benjamin Graham,Influenced,2
