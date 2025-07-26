@@ -5,12 +5,11 @@ import StatCard from './components/StatCard';
 import Legend from './components/Legend';
 import { useCSVData } from './hooks/useCSVData';
 import './App.css';
+import nodesURL from './assets/GlobalValueInvestors-nodes.csv';
+import edgesURL from './assets/GlobalValueInvestors-edges.csv';
 
 function App() {
-  const { nodes, edges, loading, error } = useCSVData(
-    '/src/assets/GlobalValueInvestors-nodes.csv',
-    '/src/assets/GlobalValueInvestors-edges.csv'
-  );
+  const { nodes, edges, loading, error } = useCSVData(nodesURL, edgesURL);
 
   // Calculate statistics
   const stats = useMemo(() => {
