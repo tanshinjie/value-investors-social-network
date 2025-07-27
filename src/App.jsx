@@ -5,11 +5,13 @@ import StatCard from './components/StatCard';
 import Legend from './components/Legend';
 import { useCSVData } from './hooks/useCSVData';
 import './App.css';
+import nodesPath from './assets/GlobalValueInvestors-nodes.csv?url';
+import edgesPath from './assets/GlobalValueInvestors-edges.csv?url';
 
 function App() {
   const { nodes, edges, loading, error } = useCSVData(
-    '/assets/GlobalValueInvestors-nodes.csv',
-    '/assets/GlobalValueInvestors-edges.csv'
+    nodesPath,
+    edgesPath
   );
 
   // Calculate statistics
