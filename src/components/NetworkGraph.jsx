@@ -54,6 +54,26 @@ const NetworkGraph = ({ nodes, edges, width = 800, height = 600 }) => {
       'Other': '#6b7280'
     };
 
+    // Create gradients for nodes
+    const defs = svg.append("defs");
+    
+    Object.entries(categoryColors).forEach(([category, color]) => {
+      const gradient = defs.append("radialGradient")
+        .attr("id", `gradient-${category.replace(/[^a-zA-Z]/g, '')}`)
+        .attr("cx", "30%")
+        .attr("cy", "30%");
+      
+      gradient.append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", d3.color(color).brighter(0.3))
+        .attr("stop-opacity", 1);
+      
+      gradient.append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", color)
+        .attr("stop-opacity", 1);
+    });
+
     // Create force simulation
     const simulation = d3.forceSimulation(processedNodes)
       .force("link", d3.forceLink(processedEdges)
@@ -91,7 +111,7 @@ const NetworkGraph = ({ nodes, edges, width = 800, height = 600 }) => {
         ).length;
         return Math.max(5, Math.min(15, 5 + connections * 0.8));
       })
-      .style("fill", d => categoryColors[d.Category] || categoryColors['Other'])
+      .style("fill", d => `url(#gradient-${d.Category.replace(/[^a-zA-Z]/g, '')})`)
       .style("stroke", "#fff")
       .style("stroke-width", 2)
       .call(d3.drag()
